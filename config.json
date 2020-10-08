@@ -1,8 +1,19 @@
 {
-    "token" : "YOUR BOT TOKEN",
+    "token" : "1281735502:AAFsbjD3ZbVNGdMDJwINfjeel10f5QxPNb0",
     "admins" : ["ADMIN USERNAMES (ARRAY)"],
-    "intro" : "YOUR INTRO HERE",
-    "botname" :"YOUR BOT NAME HERE",
-    "signup" : SIGNUP BONUS (NUMBER),
-    "ref" : REFERRAL BONUS (NUMBER)
+    "intro" : "👋 Hello %firstname%
+➡️ Please complete this simple tasks to get 10 TRX Token
+
+➡️ you can earn FOXY only for inviting referrals (2 TRX for 1 referral❗️) 
+----------------------------------------------------------------
+🟢 Join our Telegram Group
+🟡 Join our Telegram Channel
+🟣 Follow us on Twitter & Retweet pin post
+
+---------------------------------------------------------------------------------------
+⚠️ Note: We'll check your all information manually.
+If you agree press "Submit details"",
+    "botname" :"Tron_airdrop",
+    "signup" : SIGNUP BONUS (10),
+    "ref" : REFERRAL BONUS (2)
 }
